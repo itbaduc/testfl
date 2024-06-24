@@ -1,0 +1,8 @@
+.assets
+.conda
+.idea
+.vscode
+.install
+*.zip
+README.md
+tests
