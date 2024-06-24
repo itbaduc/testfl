@@ -3,6 +3,7 @@
 .idea
 .vscode
 .install
+.github
 *.zip
 README.md
 tests
