@@ -57,7 +57,8 @@ def run(program : ArgumentParser) -> None:
 		onnxruntime = answers['onnxruntime']
 		onnxruntime_name, onnxruntime_version = ONNXRUNTIMES[onnxruntime]
 
-		subprocess.call([ 'pip', 'install', '-r', 'requirements.txt', '--force-reinstall' ])
+		# subprocess.call([ 'pip', 'install', '-r', 'requirements.txt', '--force-reinstall' ])
+		subprocess.call([ 'pip', 'install', '-r', 'requirements.txt' ])
 		if onnxruntime == 'rocm-5.4.2' or onnxruntime == 'rocm-5.6':
 			if python_id in [ 'cp39', 'cp310', 'cp311' ]:
 				rocm_version = onnxruntime.replace('-', '')
