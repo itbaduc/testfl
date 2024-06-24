@@ -66,6 +66,18 @@ def render() -> None:
 		value = wording.get('uis.stop_button'),
 		size = 'sm'
 	)
+	gradio.HTML("""
+    <div style=''>
+		<h3>Livestream với OBS:</h3>		
+		<ol>
+			<li>Trong phần <b>Source</b>, chọn <b>Media Source</b></li>
+			<li>Bỏ chọn <b>Local File</b></li>
+			<li>Trong phần <b>Input</b> nhập đường dẫn <b>udp://localhost:27000</b></li>
+			<li>Click OK để hoàn tất quá trình cấu hình cho OBS</li>
+		</ol>
+		<p>*Với các phần mềm Livestream khác có thể cấu hình hơi khác nhưng URL sẽ luôn là: <b>udp://localhost:27000</b></p>
+	</div>
+    """)
 
 
 def listen() -> None:
