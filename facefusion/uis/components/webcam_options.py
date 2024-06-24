@@ -17,7 +17,8 @@ def render() -> None:
 
 	WEBCAM_MODE_RADIO = gradio.Radio(
 		label = wording.get('uis.webcam_mode_radio'),
-		choices = uis_choices.webcam_modes,
+		# choices = uis_choices.webcam_modes,
+		choices = [('Test', 'inline'), ('LiveStream','udp')], # [('name', 'value')]
 		value = 'inline',
 		elem_classes="global_config webcam_mode"
 	)
