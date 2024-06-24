@@ -68,14 +68,16 @@ def run(program : ArgumentParser) -> None:
 				wheel_url = 'https://download.onnxruntime.ai/' + wheel_name
 				subprocess.call([ 'curl', '--silent', '--location', '--continue-at', '-', '--output', wheel_path, wheel_url ])
 				subprocess.call([ 'pip', 'uninstall', wheel_path, '-y', '-q' ])
-				subprocess.call([ 'pip', 'install', wheel_path, '--force-reinstall' ])
+				# subprocess.call([ 'pip', 'install', wheel_path, '--force-reinstall' ])
+				subprocess.call([ 'pip', 'install', wheel_path ])
 				os.remove(wheel_path)
 		else:
 			subprocess.call([ 'pip', 'uninstall', 'onnxruntime', onnxruntime_name, '-y', '-q' ])
 			if onnxruntime == 'cuda-12.2':
 				subprocess.call([ 'pip', 'install', onnxruntime_name + '==' + onnxruntime_version, '--extra-index-url', 'https://aiinfra.pkgs.visualstudio.com/PublicPackages/_packaging/onnxruntime-cuda-12/pypi/simple', '--force-reinstall' ])
 			else:
-				subprocess.call([ 'pip', 'install', onnxruntime_name + '==' + onnxruntime_version, '--force-reinstall' ])
+				# subprocess.call([ 'pip', 'install', onnxruntime_name + '==' + onnxruntime_version, '--force-reinstall' ])
+				subprocess.call([ 'pip', 'install', onnxruntime_name + '==' + onnxruntime_version ])
 
 		subprocess.call([ 'pip', 'uninstall', 'numpy', '-y' ])
 		subprocess.call([ 'pip', 'install', 'numpy==1.26.4' ])
